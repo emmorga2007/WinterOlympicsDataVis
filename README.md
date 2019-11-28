@@ -1,5 +1,5 @@
 # A Data Visulization of Canadas Results in the Winter Olympics
-(images/medals.jpg "Olympic Medals")
+<img src="images/medals.jpg" alt="Olympic Medals">
 
 To view: Simply open the index.html document within this repository to view the presented data. This data has been sampled form the IOC Research and Reference Service and Published by The Gaurdian's Datablog in reference to Olympic Medals and Sports from 1896-2014
 
