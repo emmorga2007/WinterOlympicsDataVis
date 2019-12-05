@@ -1,4 +1,4 @@
-# A Data Visulization of Canadas Results in the Winter Olympics
+# Data Visulizations to Determine Canadas Best Sport in the Winter Olympics
 <img src="images/medals.jpg" alt="Olympic Medals">
 
 To view simply open the index.html document within this repository to view the presented data.
